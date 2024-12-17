@@ -1,0 +1,31 @@
+
+.sidebar {
+    background-color: #0A5EB0 !important;
+}
+
+.custom-sidebar .menu_section h3 {
+    color: #ffffff !important;
+}
+
+.custom-sidebar .nav.side-menu > li > a {
+    color: #ffffff !important;
+}
+
+.custom-sidebar .nav.child_menu > li > a {
+    color: #d6e6f2 !important;
+}
+
+.custom-sidebar .fa {
+    color: #ffffff !important;
+}
+.logo{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    translate: middle;
+    width: 150px;
+    height: auto;
+}
+br {
+    background-color: #ffffff;
+}
